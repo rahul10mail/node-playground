@@ -9,4 +9,4 @@ A collection of small Node.js projects that I created while learning node. :roll
    ```
     npm install
    ```
- * Point your browser to 127.0.0.1:3000 to see the output. :simple_smile:
+ * Point your browser to 127.0.0.1:3000 to see the output. :smile:
